@@ -1,6 +1,6 @@
 # react-animal-search
 
-# Create React App - Full
+# Create React App from scratch
 1) Install react, webpack, babel, linters, path, loader dependencies
 ```sh
 npm init -y \
